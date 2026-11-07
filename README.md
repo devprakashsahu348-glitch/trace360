@@ -1,4 +1,5 @@
 # TRACE360 — Know the journey. Trust the product.
+   **Live site:** https://YOUR-SITE.netlify.app
 
 A full-stack **product traceability and supply-chain record platform** for small food producers.
 Businesses record each batch's journey (production → quality → packing → dispatch → receipt), attach
