@@ -1,0 +1,21 @@
+{
+  "name": "trace360",
+  "version": "1.0.0",
+  "description": "TRACE360 — smart supply chain & product trust platform. Netlify Functions + Neon Postgres + static frontend.",
+  "private": true,
+  "type": "module",
+  "author": "Dev Prakash Sahu <devprakashsahu348@gmail.com>",
+  "license": "UNLICENSED",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "qrcode": "^1.5.4"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.3.0"
+  }
+}
