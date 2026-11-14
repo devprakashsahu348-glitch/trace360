@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 220" role="img" aria-labelledby="t"><title id="t">A tea leaf at the end of a broken dotted route</title>
+<path d="M20 170C80 190 120 120 180 150" fill="none" stroke="#8B6B43" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 14"/>
+<path d="M232 120C252 160 290 176 336 160" fill="none" stroke="#8B6B43" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 14"/>
+<g fill="#E3A21A" stroke="#8B6B43" stroke-width="4"><circle cx="20" cy="170" r="11"/><circle cx="336" cy="160" r="11"/></g>
+<g transform="rotate(-18 205 110)"><path d="M150 120c18-44 52-68 110-72-4 56-30 84-72 92" fill="#2F6B3F"/><path d="M158 124c24-24 52-40 84-50" stroke="#CFE0C8" stroke-width="5" fill="none" stroke-linecap="round"/></g></svg>

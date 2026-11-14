@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630"><rect width="1200" height="630" fill="#17301F"/>
+<g fill="none" stroke="#E3A21A" stroke-width="5" stroke-linecap="round" stroke-dasharray="2 16"><path d="M690 480C760 330 830 300 880 360S980 470 1040 300"/></g>
+<g fill="#E3A21A" stroke="#F5EEDC" stroke-width="4"><circle cx="690" cy="480" r="16"/><circle cx="815" cy="338" r="16"/><circle cx="920" cy="408" r="16"/><circle cx="1040" cy="300" r="16"/></g>
+<rect x="80" y="90" width="64" height="64" rx="16" fill="#F5EEDC"/><path d="M96 134c6-14 14-22 34-24-2 20-10 28-22 28" fill="#2F6B3F"/>
+<text x="164" y="140" font-family="DejaVu Serif, Georgia, serif" font-size="46" font-weight="700" fill="#F5EEDC">TRACE<tspan fill="#E3A21A">360</tspan></text>
+<text x="80" y="300" font-family="DejaVu Serif, Georgia, serif" font-size="84" font-weight="700" fill="#F5EEDC">Know the journey.</text>
+<text x="80" y="398" font-family="DejaVu Serif, Georgia, serif" font-size="84" font-weight="700" font-style="italic" fill="#E3A21A">Trust the product.</text>
+<text x="80" y="520" font-family="DejaVu Sans, Arial, sans-serif" font-size="32" fill="#CFE0C8">Digital batch records and honest QR trace pages</text>
+<text x="80" y="570" font-family="DejaVu Sans, Arial, sans-serif" font-size="26" fill="#9FB29D">for small producers</text></svg>
